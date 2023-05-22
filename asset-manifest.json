@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/web/static/css/main.ba5edb5e.css",
+    "main.js": "/web/static/js/main.e17a047f.js",
+    "static/media/contactBg.jpg": "/web/static/media/contactBg.54ea96465bcaaa9c2dc3.jpg",
+    "static/media/whyBg.jpg": "/web/static/media/whyBg.ccc4f0f3867747bb44ec.jpg",
+    "static/media/deskAndLamp.jpg": "/web/static/media/deskAndLamp.0cb1742b989c8f0206fd.jpg",
+    "index.html": "/web/index.html",
+    "main.ba5edb5e.css.map": "/web/static/css/main.ba5edb5e.css.map",
+    "main.e17a047f.js.map": "/web/static/js/main.e17a047f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba5edb5e.css",
+    "static/js/main.e17a047f.js"
+  ]
+}
