@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.1d33bc56.css",
-    "main.js": "/static/js/main.245e8233.js",
-    "static/media/contactBg.jpg": "/static/media/contactBg.54ea96465bcaaa9c2dc3.jpg",
-    "static/media/whyBg.jpg": "/static/media/whyBg.ccc4f0f3867747bb44ec.jpg",
-    "static/media/deskAndLamp.jpg": "/static/media/deskAndLamp.0cb1742b989c8f0206fd.jpg",
+    "main.css": "/static/css/main.5770e377.css",
+    "main.js": "/static/js/main.b66b5d16.js",
     "index.html": "/index.html",
-    "main.1d33bc56.css.map": "/static/css/main.1d33bc56.css.map",
-    "main.245e8233.js.map": "/static/js/main.245e8233.js.map"
+    "main.5770e377.css.map": "/static/css/main.5770e377.css.map",
+    "main.b66b5d16.js.map": "/static/js/main.b66b5d16.js.map"
   },
   "entrypoints": [
-    "static/css/main.1d33bc56.css",
-    "static/js/main.245e8233.js"
+    "static/css/main.5770e377.css",
+    "static/js/main.b66b5d16.js"
   ]
 }
